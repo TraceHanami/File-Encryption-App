@@ -86,7 +86,7 @@ python SecureAccessApp.py
 
 ## 🙏 Acknowledgement
 
-Special thanks to **Abinash** and **Ms. Wincy** for their support and guidance throughout this project.
+Special thanks to **Abinash** and **Ms. Monisha** for their support and guidance throughout this project.
 
 ---
 
